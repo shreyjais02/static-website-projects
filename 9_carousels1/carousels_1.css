@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/niat_static/niat_css/favourite_place_detailed_view_practice_1_bg_1.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+    border-radius: 0px;
+}
+
+.head {
+    color: white;
+    font-family: "Lobster";
+    padding: 15px;
+    font-size: 30px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.bg2 {
+    background-color: #ffffffe6;
+    text-align: left;
+    padding: 20px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.head1 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+    color: #0f0e46;
+}
+
+.para1 {
+    color: #6c6b70;
+}
+
+.div1 {
+    margin: 10px;
+}
