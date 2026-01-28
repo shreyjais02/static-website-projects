@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-bg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-card {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: white;
+}
+
+.home-card-internals {
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.home-heading {
+    color: #f19116;
+    font-size: 23px;
+    font-family: "Bree Serif";
+}
+
+.home-para {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.button {
+    background-color: #f19116;
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    margin-bottom: 50px;
+    font-size: 15px;
+}
+
+.list-bg {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+
+.list-heading {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 30px;
+}
+
+.list-card {
+    background-color: white;
+    font-family: "Bree Serif";
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.list-image {
+    width: 90px;
+    height: 100%;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.list-card-content {
+    padding: 10px;
+}
+
+.list-card-heading {
+    font-weight: bold;
+    color: #0f0e46;
+    font-size: 30px;
+}
+
+.list-card-para {
+    font-size: 15px;
+    color: #6c6b70;
+}
+
+.back-button {
+    margin: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.detail-img {
+    width: 100%;
+}
+
+.detail-bg {
+    background-color: #222222;
+    font-family: "Bree Serif";
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.detail-heading {
+    color: #f19116;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.location-img {
+    height: 32px;
+    width: 32px;
+    margin-left: 10px;
+}
+
+.location-para {
+    font-size: 15px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.buttons-div {
+    text-align: center;
+}
