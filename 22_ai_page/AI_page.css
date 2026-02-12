@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.header-logo {
+    width: 100px;
+}
+
+.nav-bar {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+.nav-items {
+
+    font: "Roboto";
+}
+
+nav a {
+    color: grey;
+}
+
+nav a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+.nav-items a {
+    margin-left: 10px;
+}
+
+.section {
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.section h1 {
+    color: darkblue;
+}
+
+.section p {
+    margin-top: 15px;
+    color: grey;
+}
+
+.figure {
+    height: 350px;
+}
+
+aside figure {
+    padding: 10px;
+}
+
+footer {
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+}
