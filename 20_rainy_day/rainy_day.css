@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #1a1a2e;
+    font-family: "Roboto";
+    height: 100vh;
+    padding: 20px;
+}
+
+.video-properties {
+    padding-top: 20px;
+    height: 100%;
+    width: 500px;
+}
+
+.bg-2 {
+    padding-top: 10px;
+    color: white;
+}
+
+.bg-2-head {
+    font-weight: bold;
+}
+
+.bg-3 {
+    padding-top: 10px;
+    color: white;
+}
+
+.bg-3-head {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.vid-cards {
+    background-color: #16213e;
+    color: white;
+    width: 150px;
+    margin: 20px;
+}
+
+.card-head {
+    color: white;
+    font-size: 20px;
+}
+
+.card-margin {
+    padding: 10px;
+}
+
+.card-para {
+    color: #a0a0a0;
+    font-size: 10px;
+}
+
+.img-properties {
+    height: 100px;
+    width: 100%;
+}
