@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #27ae60;
+    height: 100vh;
+    text-align: center;
+}
+
+.top-div {
+    padding: 20px;
+}
+
+.top-img-props {
+    width: 300px;
+}
+
+.top-head {
+    font-family: Caveat;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.bottom-div {
+    background-color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.bottom-main-head {
+    color: #8e44ad;
+    font-size: 40px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.bottom-content-head {
+    color: #34495e;
+    font-weight: 600;
+}
+
+.bottom-content-para {
+    color: #7f8c8d;
+}
+
+.bottom-imgs {
+    width: 90px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.content-card {
+    margin: 20px;
+    text-align: left;
+}
+
+.bottom-head-div {
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
