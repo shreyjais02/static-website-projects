@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.div1 {
+    color: #333333;
+    font-family: "Playfair Display SC";
+    text-align: center;
+    padding: 20px;
+}
+
+.div1 h1 {
+    font-size: 40px;
+}
+
+.bg-container {
+    background-color: #f5f5f5;
+    height: 500vh;
+}
+
+.imgs {
+    width: 250px;
+    border-radius: 10px;
+}
+
+.div2 {
+    border-radius: 25px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #8b4513;
+    margin: 20px;
+    padding: 20px;
+}
+
+.div2 h1 {
+    font-family: "Bree Serif";
+}
+
+.div2-p1 {
+    color: #666666;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.div2-p2 {
+    font-family: Caveat;
+    color: #8b4513;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.div2-p3 {
+    text-decoration: underline;
+    color: #333333;
+    font-family: "Playfair Display";
+    font-size: 28px;
+}
+
+.div3 {
+    font-family: Monoton;
+    text-align: right;
+    padding: 20px;
+    padding-left: 50px;
+}
+
+.div4 {
+    margin: 20px;
+}
+
+.div5 {
+    margin: 10px;
+}
+
+.img2 {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.div5-card {
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.div5-card p {
+    padding-top: 10px;
+    color: #666666;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.div6 {
+    text-align: center;
+}
+
+.div6 h1 {
+    font-family: "Bree Serif";
+}
+
+.div6 p {
+    font-family: Caveat;
+    color: #8b4513;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.div6 img {
+    border-radius: 250px;
+    width: 250px;
+    height: 250px;
+}
+
+.div7 {
+    text-align: left;
+    margin: 20px;
+}
+
+.div7 h1 {
+    font-family: Roboto;
+    color: #333333;
+    font-size: 40px;
+}
+
+.div7 ul {
+    color: #666666;
+}
+
+.div7 li {
+    padding: 5px;
+    font-size: 25px;
+}
+
+.button {
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #333333;
+    color: #666666;
+}
